@@ -1,0 +1,1 @@
+This project is a gift/joke for Father's Day 2024. It was created using very simple HTML, CSS, and JavaScript code.
